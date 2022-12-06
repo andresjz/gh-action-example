@@ -20,8 +20,8 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
     
-    - name: Hola
-      run: echo "Hola"
+    - name: Adios
+      run: echo "Adios"
 
 
     # - name: Setup Node.js
@@ -33,7 +33,7 @@ jobs:
     #   run: npm install
 
     # - name: Build
-    #   run: npm run build:prod
+    #   run: npm run build:stg
 
     # - name: Deploy
     #   if: success()

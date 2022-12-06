@@ -1,0 +1,10 @@
+dfgfdgd
+dfgfdgddfg
+as
+dfg
+
+git add nuevo-archivo.txt
+git commit "nuevo archivo"
+git push 
+
+

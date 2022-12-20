@@ -8,6 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment: staging
     steps:
     # ctrl + c - ctrl + k
     # - name: Configure AWS Credentials
